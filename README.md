@@ -76,6 +76,8 @@ Client->ProxyServer: AES(key, ClientLogout)
 ProxyServer->Client: *DeleteSession*
 ```
 
+![sequence](assets/sequence.png)
+
 ![image-20221205150540620](assets/image-20221205150540620.png)
 
 ##### TODO
