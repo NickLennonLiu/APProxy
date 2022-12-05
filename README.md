@@ -61,7 +61,7 @@ assets
 
 ``` sequence
 Browser->Client: Setup Local Proxy
-Client->ProxyServer: EKE 加密密钥交换协议(见下图)
+Client->ProxyServer: Bellovin-Merritt 加密密钥交换协议(见下图)
 Client->ProxyServer: (Username, Password)
 ProxyServer->Client: AES(key, {Rn_S(0)})
 
@@ -76,7 +76,7 @@ Client->ProxyServer: AES(key, ClientLogout)
 ProxyServer->Client: *DeleteSession*
 ```
 
-![sequence](assets/sequence.png)
+![sequence](assets/sequence.jpg)
 
 ![image-20221205150540620](assets/image-20221205150540620.png)
 
