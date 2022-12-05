@@ -1,3 +1,4 @@
 bellovin/
 .idea/
 __pycache__/
+*.zip

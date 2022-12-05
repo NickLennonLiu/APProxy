@@ -1,5 +1,5 @@
 _config = {
-    'HOST_NAME': '127.0.0.1',
+    'HOST_NAME': '172.16.1.2',
     'AUTH_PORT': 1111,
     'PROXY_PORT': 2222,
     'buff_size': 65536,
