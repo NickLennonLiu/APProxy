@@ -76,7 +76,7 @@ Client->ProxyServer: AES(key, ClientLogout)
 ProxyServer->Client: *DeleteSession*
 ```
 
-![image-20221205150540620](assets\image-20221205150540620.png)
+![image-20221205150540620](assets/image-20221205150540620.png)
 
 ##### TODO
 
@@ -90,10 +90,10 @@ ProxyServer->Client: *DeleteSession*
 
 ###### 客户端
 
-![image-20221205151917566](assets\image-20221205151917566.png)
+![image-20221205151917566](assets/image-20221205151917566.png)
 
-![image-20221205152003241](assets\image-20221205152003241.png)
+![image-20221205152003241](assets/image-20221205152003241.png)
 
 ###### 服务端
 
-![image-20221205152306745](assets\image-20221205152306745.png)
+![image-20221205152306745](assets/image-20221205152306745.png)
